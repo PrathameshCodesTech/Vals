@@ -9,7 +9,7 @@ function App() {
   // ----------------------------------------------------
   // 💖 CHANGE THIS DATE TO YOUR ANNIVERSARY DATE 💖
   // ----------------------------------------------------
-  const startDate = '2022-02-14';
+  const startDate = '2019-06-07';
 
   return (
     <div className="bg-pink-50 min-h-screen text-gray-800 font-sans selection:bg-pink-200">
